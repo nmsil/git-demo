@@ -5,7 +5,7 @@ hello git !!!hot hot hot hot hot hot
 hello git !!!
 hello git !!!
 hello git !!!
-hello git !!!
+hello git !!! master test
 hello git !!!
 hello git !!!
 hello git !!!  hot-fix test！
@@ -19,3 +19,4 @@ hello git !!!
 hello git !!!
 hello git !!!
 hello git !!! hot  hot 
+hello git !!! master master
